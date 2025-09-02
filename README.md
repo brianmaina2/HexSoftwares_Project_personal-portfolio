@@ -47,4 +47,4 @@ Contact
 
 Email: bkemboi089@gmail.com
 GitHub: brianmaina2
-LinkedIn: 
+LinkedIn:https://www.linkedin.com/in/brian-kipkemboi-7b0493255/
