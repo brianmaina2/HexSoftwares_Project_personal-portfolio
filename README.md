@@ -10,16 +10,16 @@ Sections: Includes Home, About Me, Skills, Experience, and Contact sections.
 Navigation: Smooth scrolling navigation bar linking to each section.
 Styling: Clean and professional layout with CSS gradients and shadows.
 
-Getting Started
+
 Prerequisites
 
-A web browser (e.g., Chrome, Firefox).
-Optional: A code editor (e.g., Visual Studio Code) for modifications.
+A web browser (Chrome, Firefox).
+A code editor (Visual Studio Code) for modifications.
 Git installed for cloning the repository.
 
 Installation
 
-Clone the repository:git clone git@github.com:brianmaina2/HexSoftwares_Project_personal-portfolio.git
+Cloned the repository:git clone git@github.com:brianmaina2/HexSoftwares_Project_personal-portfolio.git
 
 
 Navigate to the project folder:cd HexSoftwares_Project_personal-portfolio
@@ -27,20 +27,15 @@ Navigate to the project folder:cd HexSoftwares_Project_personal-portfolio
 
 Open index.html in a web browser to view the portfolio.
 
-Usage
-
-Customize index.html with your personal details (e.g., name, bio, skills, experience, contact info).
-Add a profile photo to the assets folder and update the src attribute in index.html.
-Test changes by opening index.html in a browser.
-
 File Structure
 
 index.html: Main HTML file containing the portfolio structure.
 styles.css: CSS file for styling and layout.
-assets/: Folder for images (e.g., profile photo).
+assets/: Folder for images (profile photo).
 
 Contributing
 This project is part of an internship assignment. For collaboration or feedback, please contact me at bkemboi089@gmail.com.
+
 License
 This project is for personal and internship use only. No commercial use is permitted unless otherwise agreed with Hex Software.
 Acknowledgments
