@@ -19,7 +19,7 @@ Git installed for cloning the repository.
 
 Installation
 
-Cloned the repository:git clone git@github.com:brianmaina2/HexSoftwares_Project_personal-portfolio.git
+Clone the repository:git clone git@github.com:brianmaina2/HexSoftwares_Project_personal-portfolio.git
 
 
 Navigate to the project folder:cd HexSoftwares_Project_personal-portfolio
@@ -47,4 +47,4 @@ Contact
 
 Email: bkemboi089@gmail.com
 GitHub: brianmaina2
-LinkedIn:https://www.linkedin.com/in/brian-kipkemboi-7b0493255/
+LinkedIn: https://www.linkedin.com/in/brian-kipkemboi-7b0493255/
